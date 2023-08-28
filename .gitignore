@@ -1,0 +1,26 @@
+# Node related
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build output
+dist/
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment files
+.env
+
+# Editor folders and files
+.vscode/
+*.code-workspace
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Other
+.DS_Store
+*.log
+*.tmp
